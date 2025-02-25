@@ -21,8 +21,6 @@ namespace Project
         static int number3 = 6;
         static int[] array3 = new int[] { 2, 5, 6, 0, 3, 4 };
         
-        static int number4 = 6;
-        static int[] array4 = new int[] { -1, 0 ,1 ,2 , 3, 4, 0 };
 
         static void Main(string[] args)
         {
