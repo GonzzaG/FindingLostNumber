@@ -24,10 +24,8 @@ namespace Project
 
         static void Main(string[] args)
         {
-            Console.WriteLine("Bienvenido al programa de encontrar el numero perdido. \n" +
-                "Presione una tecla para empezar.");
-
-            Console.WriteLine("Welcome to the program");
+            Console.WriteLine("Welcome to the program to find de missing number. \n" +
+                "Press a key to start");
             Console.ReadKey();
 
             Console.WriteLine(FindLostNumber(array1, number1));
